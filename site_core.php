@@ -1346,3 +1346,5 @@ $Definition['StubConversationBody'] = "Hey. Een gesprek is privé tussen 2 of me
 
 #$Definition['StubWallBody'] = 'Ping! An activity post is a public way to talk at someone. When you update your status here, it posts it on your activity feed.';
 $Definition['StubWallBody'] = 'Ping! Een activiteit is een openbare manier om met iemand te praten. Als je je status hier aanpast, wordt dat op je tijdlijn geplaatst.';
+
+$Definition['Your password must be at least %d characters long.'] = 'Je wachtwoord moet minstens %d letters hebben.';
